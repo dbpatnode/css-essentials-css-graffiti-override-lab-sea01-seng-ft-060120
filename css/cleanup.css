@@ -3,7 +3,7 @@
   display: none;
 }
 
-div[id^="tag"] {
+div#tag-2 {
   display: none;
 }
 
